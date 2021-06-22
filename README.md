@@ -51,6 +51,6 @@ By default, flask will run on port 5000.
 You should be able to view the homepage.
 Enter valid numerical values in all  input boxes and hit Submit.
 
-You should be able to see the predcited vaule on the HTML page!
+You should be able to see the predicted value on the HTML page!
 
 
